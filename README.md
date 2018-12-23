@@ -1,6 +1,6 @@
 # React-Flexbox
 
-Demonstrates Flexbox options in a react app
+Demonstrates Flexbox options in a React app with Material UI.
 
 
 
